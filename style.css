@@ -1,6 +1,5 @@
 body {
     font-family: 'Poppins', sans-serif;
-
 }
 
 h1 {
@@ -13,8 +12,14 @@ h1 {
 
 section {
     display: flex;
+    margin: bottom 250px;
+    align-items: center;
 
 
+}
+
+hr {
+    width: 100%;
 }
 
 .half-witdh {
@@ -24,7 +29,7 @@ section {
 }
 
 .half-witdh img {
-    width: 60%;
+    width: 80%;
 }
 
 .link_button {
@@ -34,4 +39,149 @@ section {
     border-radius: 10px;
     color: white;
     font-weight: 700;
+}
+
+.section2 {
+    display: flex;
+    margin-bottom:200px;
+
+
+
+}
+
+.half-witdh {
+    padding: 50px;
+    width: 50%;
+    border-radius: 10px;
+    font-weight: 400;
+
+
+}
+
+p {
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.half-witdh img {
+    width: 80%;
+    margin-left: 20%;
+}
+
+.button2 {
+    color: aliceblue;
+    background-color: chocolate;
+    background-repeat: no-repeat;
+    width: 16%;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 20px;
+    text-decoration: none;
+    background-image: linear-gradient(yellow, red)
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.experiaece-area {
+    display: flex;
+    width:60%;
+    margin: auto;
+    margin-bottom:100px;
+ 
+
+}
+
+.half-witdh3 {
+    background-color: antiquewhite;
+    margin: 20px;
+    padding: 20px;
+    width: 300px;
+    border-radius: 20px;
+    height: 600px;
+}
+
+.img {
+    width:80%;
+  
+
+}
+
+.title {
+    font-size: 30px;
+}
+.ex1{
+    margin-left: 8%;
+    color: coral;
+    text-align: center;
+}
+
+.section4{
+    display: flex;
+    padding: 100px;
+
+}
+.button3{
+    background-color: blueviolet;
+    font-size:100;
+    width: 60%;
+    font-weight:800;
+    text-decoration: none;
+    padding: 10px;
+    color: blanchedalmond;
+    border-radius: 10px;
+    background-image:linear-gradient(red,yellow)
+}
+.span2{
+    color:orange ;
+}
+.section5{
+    display: flex;
+    align-items: center;
+}
+.div1{
+    padding:150px;
+}
+.img2{
+    width:700px;
+}
+.div2{
+    text-align: center;
+    background-color: antiquewhite;
+    color:orange;
+   
+}
+.section6{
+    display: flex;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 10px;
+    
+}
+.img1{
+    width: 40%
+}
+.div3{
+    background-color: bisque;
+    width:30%;
+    margin:20px 20px 20px;
+    padding: 40px;
+    border-top: solid 15px orange ;
+    border-radius: 25px;
+}
+.span3{
+    color:red;
+}
+
+.button4{
+    background-color: blueviolet;
+    font-size:100;
+    width: 60%;
+    font-weight:800;
+    text-decoration: none;
+    padding: 10px;
+    color: blanchedalmond;
+    border-radius: 10px;
+    background-image:linear-gradient(red,yellow)
 }
