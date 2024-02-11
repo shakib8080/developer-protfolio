@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&family=Protest+Revolution&display=swap');
+
 body {
     font-family: 'Poppins', sans-serif;
 }
@@ -184,4 +187,30 @@ body {
     color: blanchedalmond;
     border-radius: 10px;
     background-image:linear-gradient(red,yellow)
+}
+.div4{
+    text-align:center;
+    padding-top: 40px;
+}
+.div5{
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Protest Revolution', sans-serif;
+    font-family: 'Oleo Script', system-ui;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 80px;
+
+    
+}
+.span4{
+    color: orange;
+}
+.des{
+    margin-top: -40px;
+}
+.hed{
+    margin-top:-2px;
 }
