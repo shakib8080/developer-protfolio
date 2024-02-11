@@ -166,12 +166,18 @@ body {
     width: 40%
 }
 .div3{
+    border-image:linear-gradient(orange,rgb(104, 69, 5));
+    border-image-slice: 1;
+    border-left: 10px solid;
+    border-top:10px solid ;
+    border-radius: 20px;
     background-color: bisque;
     width:30%;
     margin:20px 20px 20px;
     padding: 40px;
-    border-radius: 25px;
 }
+
+
 .span3{
     color:red;
 }
